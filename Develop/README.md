@@ -1,5 +1,6 @@
 # README Generator
 
+
   ## Licensing:
   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
   
@@ -18,7 +19,7 @@
   Start by downloading the content files to your computer. Make sure to install NPM and node modules for this to run properly. Do not fork or clone repo as you will need to generate your own installs and link to your own repo for this app to function properly.
 
   ## Usage:
-  After you download and install dependancies, enter "node index.js" into your terminal command line and begin to answer the questions followed by the enter key. Once complete, a new README file will be generated!
+  After you download and install dependencies, enter "node index.js" into your terminal command line and begin to answer the questions followed by the enter key. Once complete, a new README file will be generated!
 
   ## License:
   
