@@ -13,7 +13,7 @@
   - [Additional Info](#additional-info)
   
   ## Description:
-  This project is a simple README Generator that allows users to enter a series of questions and the app automatically formats and generates a thorough README.md file with linked Table of Contents. Here is a video of the application demonstration: [video](./develop/Module%209%20Challenge-Katya%20Juliet_%20May%2020%2C%202022%206_14%20PM.mp4)
+  This project is a simple README Generator that allows users to enter a series of questions and the app automatically formats and generates a thorough README.md file with linked Table of Contents. Here is a video of the application demonstration to review by clicking [here](https://drive.google.com/file/d/1lPkyCDVa_BPSuaa2IoxZkfTEtVkRDa1c/view)
 
 
   ## Installation:
