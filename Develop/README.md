@@ -1,8 +1,7 @@
-# README Generator
-
+# Project Amazing
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
   
   ## Table of Contents 
   - [Description](#description)
@@ -13,23 +12,23 @@
   - [Additional Info](#additional-info)
   
   ## Description:
-  This project is a simple README Generator that allows users to enter a series of questions and the app automatically formats and generates a thorough README.md file with linked Table of Contents.
+  This is a description of my project 
 
   ## Installation:
-  Start by downloading the content files to your computer. Make sure to install NPM and node modules for this to run properly. Do not fork or clone repo as you will need to generate your own installs and link to your own repo for this app to function properly.
+  to install this application, follow these guidelines
 
   ## Usage:
-  After you download and install dependencies, enter "node index.js" into your terminal command line and begin to answer the questions followed by the enter key. Once complete, a new README file will be generated!
+  this is to generate readme files automatically without missing info
 
   ## License:
-  
+  MIT
 
   ## Contribution:
-  If you would like to contribute, please contact me.
+  if you wish to contribute, please contact me
 
   ## Testing:
-  You can create test files inside your repo, or you can simply run the "node index.js" inside your terminal to view the results and modify as desired. 
+  to test, follow this instruction
   
   ## Additional Info:
-  - Github: [KatyaJuliet](https://github.com/KatyaJuliet)
+  - Github: [katyajuliet](https://github.com/katyajuliet)
   - Email: katyajuliet22@gmail.com 
