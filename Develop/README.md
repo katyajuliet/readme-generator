@@ -1,7 +1,7 @@
-# Project Amazing
+# Test Project 
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None-blue)](https://shields.io)
   
   ## Table of Contents 
   - [Description](#description)
@@ -12,22 +12,22 @@
   - [Additional Info](#additional-info)
   
   ## Description:
-  This is a description of my project 
+  This is the project description
 
   ## Installation:
-  to install this application, follow these guidelines
+  Here are the installation instructions
 
   ## Usage:
-  this is to generate readme files automatically without missing info
+  instructions
 
   ## License:
-  MIT
+  Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None
 
   ## Contribution:
-  if you wish to contribute, please contact me
+  contact me if you would like to work on this project
 
   ## Testing:
-  to test, follow this instruction
+  here are the instructions
   
   ## Additional Info:
   - Github: [katyajuliet](https://github.com/katyajuliet)
